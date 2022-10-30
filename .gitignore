@@ -1,12 +1,11 @@
-runner/Class2.java
-Driver.java
+
 .idea/vcs.xml
-ignoreicin.file
-Configurations.properties
+
 src/test/java/runner/Islemyapilmayanclass.java
 
 src/test/java/runner/Class1.java
 
-src/test/java/runner/Class2.java
-src/test/java/runner/Class2.java
 
+
+Class2.java
+src/test/java/stepDefinitions/DefinitionsIlkClass.java
