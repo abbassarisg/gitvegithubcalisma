@@ -6,3 +6,5 @@ Configurations.properties
 src/test/java/runner/Islemyapilmayanclass.java
 src/test/java/pages/AbbasPage.java
 src/test/java/runner/Class1.java
+src/test/java/runner/Class3.java
+src/test/java/runner/Class2.java
