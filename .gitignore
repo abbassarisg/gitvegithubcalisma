@@ -3,3 +3,5 @@ Driver.java
 .idea/vcs.xml
 ignoreicin.file
 Configurations.properties
+src/test/java/runner/Islemyapilmayanclass.java
+src/test/java/pages/AbbasPage.java
